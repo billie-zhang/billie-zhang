@@ -1,4 +1,4 @@
-# hi I'm @billiezhang
+# hi i'm @billiezhang
 
 - 📚 second year systems design engineering student
 - 💻 interested in software development and ui/ux design
