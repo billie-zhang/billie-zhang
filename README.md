@@ -1,4 +1,4 @@
-# hi i'm @billie-zhang
+# hi i'm billie
 
 - 📚 second year systems design engineering student
 - 💻 interested in software development and ui/ux design
