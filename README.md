@@ -1,4 +1,4 @@
-# Hi I'm Billie!
+**Hi I'm Billie!**
 
 - 📚 second year systems design engineering student
 - 💻 interested in software development and ui/ux design
