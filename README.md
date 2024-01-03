@@ -1,7 +1,7 @@
 # Hi I'm Billie!
 
 ## About me
-- 📚 second year **systems design engineering** student
+- 📚 second year **systems design engineering** student at **University of Waterloo**
 - 💻 interested in **software development** and **ui/ux design**
 - 💡 currently learning **node**
 - 💌 billie.zhang@uwaterloo.ca
@@ -12,7 +12,7 @@
 - Technical Systems Analyst at Royal Bank of Canada
 
 ## I love to...
-- ✈️ travel
+- ✈️ **travel** 
 - 📚 read
 - 🧶 crochet
 - 🎨 draw 
