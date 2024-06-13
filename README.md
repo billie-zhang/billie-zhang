@@ -1,13 +1,8 @@
 # Hi I'm Billie!
-
-## About me
-- 📚 second year **systems design engineering** student at **University of Waterloo**
-- 💻 interested in **software development** and **ui/ux design**
-- 💡 currently learning **node**
-- 💌 billie.zhang@uwaterloo.ca
-- 📌 [My Portfolio](https://billiezhang.vercel.app/)
+I'm a second year **systems design engineering** student at **University of Waterloo** interested in **software development** and **ui/ux design**.
 
 ## My experience
+- Quality Software Engineer at Omniscient Neurotechnology 
 - Full-Stack Developer at Royal Bank of Canada
 - Technical Systems Analyst at Royal Bank of Canada
 
@@ -18,6 +13,7 @@
 - 🎨 draw 
 
 
-<!-- <a href="https://www.linkedin.com/in/billiezhang/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a> -->
+## Get in Touch!
+💌 billie.zhang@uwaterloo.ca
+
+📌 [My Portfolio](https://billiezhang.vercel.app/)
