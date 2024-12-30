@@ -7,7 +7,7 @@
 
 ## 💼 My Professional Journey
 
-- incoming **Full-Stack Developer** – *CI Technologies*  
+- **Full-Stack Developer** – *CI Technologies*  
 - **Quality Software Engineer** – *Omniscient Neurotechnology*  
 - **Full-Stack Developer** – *Royal Bank of Canada*  
 - **Technical Systems Analyst** – *Royal Bank of Canada*  
