@@ -21,6 +21,7 @@
 
 ## ❤️ Things I Love
 
+- **Running** - Moving my body in ways that make me feel good 🏃🏻‍♀️
 - **Traveling** - I want to explore the world and what it has to offer  ✈️  
 - **Reading** - I love immersing myself in new environments 📚  
 - **Crocheting** - I love crafting things with my own two hands  🧶
