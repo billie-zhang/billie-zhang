@@ -1,37 +1,20 @@
-<h1>✨ Hey there, I'm Billie! </h1>
+<h1>Hey there, I'm Billie! </h1>
 
-<p>
-    I'm a Systems Design Engineering student at the University of Waterloo. <br>
-    Fueling my curiosity for software development and UI/UX design to create meaningful experiences.
-</p>
 
-## 💼 My Professional Journey
+I'm a third year Systems Design Engineering student at the University of Waterloo, currently seeking fall 2025 internship opportunities. 
 
-- **Full-Stack Developer** – *CI Technologies*  
-- **Quality Software Engineer** – *Omniscient Neurotechnology*  
-- **Full-Stack Developer** – *Royal Bank of Canada*  
-- **Technical Systems Analyst** – *Royal Bank of Canada*  
 
-## 🤝 Volunteering for Good
+- Currently a **full stack developer** at [Versaterm](https://www.versaterm.com/), building new features for public safety softwares. <br/>
+- Previously at [Omniscient Neurotechnology](https://www.o8t.com/) and [Royal Bank of Canada](https://www.rbcroyalbank.com/). 
+- Volunteering as a **product manager** with [Develop for Good](https://www.developforgood.org/) and [Christians in Web3](https://www.cw3.global/)
 
-- **Technical Product Manager** – *Develop for Good*  
-- **Software Engineer** – *Christians in Web3*  
-
- *I believe in using technology as a tool for good and aspire to make a positive impact with every project I undertake.*
-
-## ❤️ Things I Love
-
-- **Running** - Moving my body in ways that make me feel good 🏃🏻‍♀️
-- **Traveling** - I want to explore the world and what it has to offer  ✈️  
-- **Reading** - I love immersing myself in new environments 📚  
-- **Crocheting** - I love crafting things with my own two hands  🧶
+Some activies that bring me joy include running, traveling, reading, drawing and crocheting!
 
 ## 💌 Let’s Connect!
 
 I’d love to hear from you! Whether it's about potential collaborations, ideas, or just to say hello, feel free to reach out. <br>
-*Currently seeking Fall 2025 internships!*
 
-<p >
-   Email: <a href="mailto:billie.zhang@uwaterloo.ca">billie.zhang@uwaterloo.ca</a>  <br>
- LinkedIn: <a href="https://www.linkedin.com/in/billiezhang/" target="_blank">https://www.linkedin.com/in/billiezhang/</a>
-</p>
+Email: [billie.zhang@uwaterloo.ca](mailto:billie.zhang@uwaterloo.ca) <br>
+LinkedIn: <a href="https://www.linkedin.com/in/billiezhang/" target="_blank">linkedin.com/in/billiezhang/</a> <br>
+Personal Website: <a href="https://billiezhang.vercel.app/" target="_blank">billiezhang.vercel.app</a> 
+
