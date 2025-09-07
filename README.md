@@ -4,7 +4,7 @@
 I'm a third year Systems Design Engineering student at the University of Waterloo, currently seeking fall 2025 internship opportunities. 
 
 
-- Currently a **full stack developer** at [Dyna Software Inc](https://dynasoftwareinc.com/), building new features for ServiceNow software. <br/>
+- Currently a **full stack engineer** at [Dyna Software Inc](https://dynasoftwareinc.com/), building new features for ServiceNow software. <br/>
 - Previously at [Versaterm](https://www.versaterm.com/), [Omniscient Neurotechnology](https://www.o8t.com/) and [Royal Bank of Canada](https://www.rbcroyalbank.com/). 
 - Volunteering as a **product manager** with [Develop for Good](https://www.developforgood.org/) and [Christians in Web3](https://www.cw3.global/)
 
