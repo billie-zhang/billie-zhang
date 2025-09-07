@@ -1,7 +1,7 @@
 <h1>Hey there, I'm Billie! </h1>
 
 
-I'm a third year Systems Design Engineering student at the University of Waterloo, currently seeking fall 2025 internship opportunities. 
+I'm a third year Systems Design Engineering student at the University of Waterloo, currently seeking summer 2026 internship opportunities. 
 
 
 - Currently a **full stack engineer** at [Dyna Software Inc](https://dynasoftwareinc.com/), building new features for ServiceNow software. <br/>
