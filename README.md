@@ -1,11 +1,11 @@
 <h1>Hey there, I'm Billie! </h1>
 
 
-I'm a third year Systems Design Engineering student at the University of Waterloo, currently seeking summer 2026 internship opportunities. 
+I'm a fourth year Systems Design Engineering student at the University of Waterloo, currently seeking summer 2027 internship and new grad opportunities. 
 
 
-- Currently a **full stack engineer** at [Dyna Software Inc](https://dynasoftwareinc.com/), building new features for ServiceNow software. <br/>
-- Previously at [Versaterm](https://www.versaterm.com/), [Omniscient Neurotechnology](https://www.o8t.com/) and [Royal Bank of Canada](https://www.rbcroyalbank.com/). 
+- Currently a **software engineer** at [Versaterm](https://www.versaterm.com/), building new features for IAPro software. <br/>
+- Previously at [Dyna Software Inc](https://dynasoftwareinc.com/), [Omniscient Neurotechnology](https://www.o8t.com/) and [Royal Bank of Canada](https://www.rbcroyalbank.com/). 
 - Volunteering as a **product manager** with [Develop for Good](https://www.developforgood.org/) and [Christians in Web3](https://www.cw3.global/)
 
 Some activies that bring me joy include running, traveling, reading, drawing and crocheting!
